@@ -1,0 +1,17 @@
+body {
+  color:#EEEEEE;
+  background-color:#610B5E;
+}
+h1{
+  padding: 15px;
+}
+table {
+  width: 100%;
+}
+td {
+  padding: 15px;
+  width: 33.33%;
+}
+tr {
+ padding: 15px;
+}
