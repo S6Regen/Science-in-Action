@@ -10,8 +10,12 @@ table {
 }
 td {
   padding: 15px;
-  width: 33.33%;
+  width: 50%;
 }
 tr {
  padding: 15px;
 }
+a{ 
+  color:#ffffff;
+  padding: 15px;
+} 
